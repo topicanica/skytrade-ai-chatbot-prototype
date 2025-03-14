@@ -22,9 +22,11 @@ After setting up the environment variables and installing dependencies, you can 
 ### Using `npm`:
 ```bash
 npm start
+```
 
 ### Testing the Endpoint
 Once your server is running, you can test it by sending the following `GET` request using a browser or via `curl`:
 
 ```bash
 curl "http://localhost:3000/?prompt=What is the capital of France?"
+```
